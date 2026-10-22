@@ -28,7 +28,7 @@ By setting a small learning rate ($\alpha = 0.000001$), we can track the exact t
 - **Initial State:** $w = 0.0, b = 0.0$, initial $MSE \approx 14,600$.
 - **Convergence:** The loss smoothly decreases following a standard exponential decay curve, plateauing close to zero as $w$ and $b$ stabilize near optimal values.
 
-![Training Loss Curve](https://raw.githubusercontent.com/placeholder/loss_curve.png) <!-- Replace link with screenshot after uploading -->
+![Training Loss Curve](https://github.com/Ramu-the-noob/LinearRegression1/blob/main/Graph.png) <!-- Replace link with screenshot after uploading -->
 
 ---
 
